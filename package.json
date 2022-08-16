@@ -1,0 +1,25 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meznidev/tailwind.git"
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "author": "kamel mezni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meznidev/tailwind/issues"
+  },
+  "homepage": "https://github.com/meznidev/tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
